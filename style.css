@@ -1,0 +1,18 @@
+<style>
+  h1 {
+    color: yellow;
+  }
+  #my-color {
+      color: orange;
+    }
+
+    .my-h1-color {
+      color: blue;
+    }
+
+    img {
+        width: 400;
+        height: 210;
+    }
+
+</style>
